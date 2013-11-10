@@ -1,6 +1,6 @@
 # neocloft-jruby
 
-A Clojure library designed to ... well, that part is up to you.
+A neocloft library to develop neocloft app with JRuby.
 
 ## Usage
 
@@ -8,7 +8,6 @@ FIXME
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright (C)2013 supermomonga
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the GNU GPL v3+ any later version.
